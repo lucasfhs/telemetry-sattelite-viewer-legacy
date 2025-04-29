@@ -26,7 +26,7 @@ This project is a JavaFX-based application designed to analyze sensor data from 
    - Launch the project using Java 11.  
 
 ## Screenshot  
-![Demo Screen](demo_screen.png) *(Include an actual screenshot path or placeholder)*  
+![Demo Screen](./gui3d/preview.gif)
 
 ## Legacy Note  
 This is an experimental/legacy project, so default database credentials are used for simplicity. **Always change them in `persistence.xml` for security.**  
